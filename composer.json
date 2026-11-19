@@ -1,0 +1,18 @@
+{
+    "name": "william-moura/bank-gateway",
+    "description": "Library for bank integration using Open Finance.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "WilliamMoura\\BankGateway\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "william moura",
+            "email": "williammoura908@gmail.com"
+        }
+    ],
+    "require": {}
+}
